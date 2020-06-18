@@ -1,6 +1,6 @@
 {
     "name": "PCA9685",
-    "description": "",
+    "description": "测试PCA9685 I2C驱动",
     "dependencies": {
         "core": "*",
         "radio": "*"
