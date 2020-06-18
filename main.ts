@@ -1,5 +1,5 @@
-basic.forever(function () {
+namespace PCA9685 {
     export function daniel() {
 
     }
-})
+}
